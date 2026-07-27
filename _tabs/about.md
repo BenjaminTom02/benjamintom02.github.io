@@ -4,13 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Welcome
-
 ## About me:
 - Ayo wassup, I am Tien Hung. Currently writing, I am a sophomore at **VNUDN - University of Science and Technology** who love exploring our world, being a better version of myself and running for yahh.
 - Welcome to my blog and I will share you guys all knowledge I know to fulfill our life. This is where my journey starting.
 
-## Little things about me:
+## Something:
 - I am a curious, ambitious and self-reflective boy.
 - I love writing, especially in human development, psychology and all things that I know.
 - I have the mindset of a scientist, or maybe a boy, I am not sure about that.
