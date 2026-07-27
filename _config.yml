@@ -39,8 +39,9 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://linkedin.com/2benjaminhh # change to your Linkedin homepage
+    - https://www.linkedin.com/in/2benjaminhh # change to your Linkedin homepage
     - https://github.com/BenjaminTom02 # change to your GitHub homepage
+    - https://www.youtube.com/@a_desired_boy-002
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -89,7 +90,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: light
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -226,6 +227,7 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  - assets/feed.xml
 
 jekyll-archives:
   enabled: [categories, tags]

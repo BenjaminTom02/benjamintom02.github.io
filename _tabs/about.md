@@ -4,5 +4,28 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Welcome
+
+## About me:
+- Ayo wassup, I am Tien Hung. Currently writing, I am a sophomore at **VNUDN - University of Science and Technology** who love exploring our world, being a better version of myself and running for yahh.
+- Welcome to my blog and I will share you guys all knowledge I know to fulfill our life. This is where my journey starting.
+
+## Little things about me:
+- I am a curious, ambitious and self-reflective boy.
+- I love writing, especially in human development, psychology and all things that I know.
+- I have the mindset of a scientist, or maybe a boy, I am not sure about that.
+- I am following **Minimalism Lifestyle** and having passion on tech.
+- I can sing quite well, but rap is a little bit.
+- I want to travel to all 34 provinces and cities all over Viet Nam, though I haven't traveled a lot yet (a bucket list of my youth).
+- I have to say that I like many things, and I have knowledge in many fields; that is why I was chosen for **the Official Olympia Team 2023** in my High School. But then again, my knowledge in these fields is wide but not deep enough.
+- My favorite school-themed series is **Lighter and Princess**. It tells the story of the unwavering love between Li Xun and Zhu Yun, which remains unchanged through all the highs and lows of life.
+- I am not a sporty guy, I just do gym at home and go for runs, but I always want to try climbing, running a marathon or skydiving; cuz its make me feel free man.
+- I like sharing my knowledge to help each other and if I had more time, I will do some charity works for sure.
+
+- **Languages**: Vietnamese, English, China and French (Basic).
+
+- **Bonus time**😈:
+  + I gonna bag a ***Nobel Prize in Physics*** one day (a dream of me when I was in grade 6 - Never forget E = mc2).
+  + I am still single 🥲
+
+> **Last but not least, I wish health and happiness to everyone for yahhh.**
